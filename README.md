@@ -22,7 +22,7 @@ In this project, we extend the Lab 3 Authentication API by adding new database t
 6. Test the health with browser
 > http://localhost:3000/api/health
 
-##Endpoints
+## Endpoints
 1. Authentication
 - POST /auth/signup → Register a new user
 - POST /auth/login → Login and receive JWT token
